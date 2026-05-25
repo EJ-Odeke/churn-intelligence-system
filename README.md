@@ -50,3 +50,6 @@ Author
 Elijah faith Odeke
 Data Science & Machine Learning Enthusiast
 Focused on AI-driven business intelligence systems
+
+<img width="871" height="722" alt="image" src="https://github.com/user-attachments/assets/406fa0be-cd5b-4d0c-a157-df63dce190fa" />
+
