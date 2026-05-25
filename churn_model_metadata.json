@@ -1,0 +1,41 @@
+{
+  "project_name": "Customer Churn Prediction",
+  "model_type": "CatBoostClassifier",
+  "feature_count": 21,
+  "input_features": [
+    "credit_score",
+    "country",
+    "gender",
+    "age",
+    "tenure",
+    "balance",
+    "products_number",
+    "active_member",
+    "estimated_salary",
+    "age_zscore",
+    "age_risk",
+    "age_bin",
+    "churn_risk_score",
+    "product_intensity",
+    "balance_log",
+    "low_balance_flag",
+    "financial_capacity",
+    "inactive_flag",
+    "country_inactive_risk",
+    "product_stress",
+    "balance_salary_ratio"
+  ],
+  "categorical_inputs": [
+    "country",
+    "gender",
+    "active_member",
+    "age_bin",
+    "country_inactive_risk"
+  ],
+  "version": "v1.0",
+  "training_timestamp": "2026-05-25 15:58:48",
+  "evaluation_metrics": {
+    "test_auc_score": 0.8755350111282314,
+    "test_accuracy_score": null
+  }
+}
