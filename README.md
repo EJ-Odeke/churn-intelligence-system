@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/9ce500c4-4229-4f6f-96bf-cfe657d985ae" />
+
 **Customer Churn Intelligence System**
 
 An end-to-end machine learning system that predicts customer churn and explains the drivers behind customer attrition using CatBoost and SHAP explainability. The project transforms raw customer data into actionable business intelligence for retention strategy and revenue protection.
